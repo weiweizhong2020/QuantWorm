@@ -1,0 +1,24 @@
+#	Tue Jun 12 14:32:52 CDT 2012
+#StepsPerPixelsX	21.586760047151067
+#StepsPerPixelsY	21.066397971173107
+piece_1.jpeg	20723	20223
+piece_2.jpeg	6908	20223
+piece_3.jpeg	-6908	20223
+piece_4.jpeg	-20723	20223
+piece_8.jpeg	-20723	10112
+piece_7.jpeg	-6908	10112
+piece_6.jpeg	6908	10112
+piece_5.jpeg	20723	10112
+piece_9.jpeg	20723	0
+piece_10.jpeg	6908	0
+piece_11.jpeg	-6908	0
+piece_12.jpeg	-20723	0
+piece_16.jpeg	-20723	-10112
+piece_15.jpeg	-6908	-10112
+piece_14.jpeg	6908	-10112
+piece_13.jpeg	20723	-10112
+piece_17.jpeg	20723	-20224
+piece_18.jpeg	6908	-20224
+piece_19.jpeg	-6908	-20224
+piece_20.jpeg	-20723	-20224
+#	time(miliseconds) 19735

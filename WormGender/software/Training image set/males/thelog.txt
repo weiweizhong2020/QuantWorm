@@ -1,0 +1,2 @@
+#StepsPerPixelsX	6.663000489
+#StepsPerPixelsY	6.552236478

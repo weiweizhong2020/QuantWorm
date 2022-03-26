@@ -1,0 +1,3 @@
+File	Left	Right	Control	Tracker
+2	5	5	Right	Fur
+6	5	5	Right	Fur

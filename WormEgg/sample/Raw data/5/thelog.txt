@@ -1,0 +1,39 @@
+#	Fri Oct 19 17:28:46 CDT 2012
+#StepsPerPixelsX	6.5117795756462575
+#StepsPerPixelsY	6.488754243419221
+piece_1.jpeg	-36083	20244
+piece_2.jpeg	-40250	20244
+piece_3.jpeg	-44418	20244
+piece_4.jpeg	-48585	20244
+piece_5.jpeg	-52753	20244
+piece_10.jpeg	-52753	17130
+piece_9.jpeg	-48585	17130
+piece_8.jpeg	-44418	17130
+piece_7.jpeg	-40250	17130
+piece_6.jpeg	-36083	17130
+piece_11.jpeg	-36083	14015
+piece_12.jpeg	-40250	14015
+piece_13.jpeg	-44418	14015
+piece_14.jpeg	-48585	14015
+piece_15.jpeg	-52753	14015
+piece_20.jpeg	-52753	10901
+piece_19.jpeg	-48585	10901
+piece_18.jpeg	-44418	10901
+piece_17.jpeg	-40250	10901
+piece_16.jpeg	-36083	10901
+piece_21.jpeg	-36083	7786
+piece_22.jpeg	-40250	7786
+piece_23.jpeg	-44418	7786
+piece_24.jpeg	-48585	7786
+piece_25.jpeg	-52753	7786
+piece_30.jpeg	-52753	4671
+piece_29.jpeg	-48585	4671
+piece_28.jpeg	-44418	4671
+piece_27.jpeg	-40250	4671
+piece_26.jpeg	-36083	4671
+piece_31.jpeg	-36083	1557
+piece_32.jpeg	-40250	1557
+piece_33.jpeg	-44418	1557
+piece_34.jpeg	-48585	1557
+piece_35.jpeg	-52753	1557
+#	time(miliseconds) 27797

@@ -1,0 +1,4 @@
+File	Left	Right	Control	Tracker
+3	5	5	left	FUR
+5	5	5	left	FUR
+7	5	5	left	FUR

@@ -1,0 +1,2 @@
+#StepsPerPixelsX	20
+#StepsPerPixelsY	20

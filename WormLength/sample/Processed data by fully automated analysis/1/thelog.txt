@@ -1,0 +1,144 @@
+#	Mon Jun 17 11:27:37 CDT 2013
+#StepsPerPixelsX	6.663000488631315
+#StepsPerPixelsY	6.552236477857417
+#Times-Horizontal:	10
+#Times-Vertical:	13
+#Microscope-configuration:	3x
+#Tracker:	ISH
+#Plate-type:	6-well
+#Well-number:	1
+#Folder:	C:\data\SangKyu\Demo Project3\BL\Plate A2\1
+#Brightness:	407
+#Sharpness:	790
+#Gain:	0
+piece_1.jpeg	57868	38428
+piece_2.jpeg	53604	38428
+piece_3.jpeg	49340	38428
+piece_4.jpeg	45076	38428
+piece_5.jpeg	40811	38428
+piece_6.jpeg	36547	38428
+piece_7.jpeg	32283	38428
+piece_8.jpeg	28018	38428
+piece_9.jpeg	23754	38428
+piece_10.jpeg	19490	38428
+piece_20.jpeg	19490	35283
+piece_19.jpeg	23754	35283
+piece_18.jpeg	28018	35283
+piece_17.jpeg	32283	35283
+piece_16.jpeg	36547	35283
+piece_15.jpeg	40811	35283
+piece_14.jpeg	45076	35283
+piece_13.jpeg	49340	35283
+piece_12.jpeg	53604	35283
+piece_11.jpeg	57868	35283
+piece_21.jpeg	57868	32138
+piece_22.jpeg	53604	32138
+piece_23.jpeg	49340	32138
+piece_24.jpeg	45076	32138
+piece_25.jpeg	40811	32138
+piece_26.jpeg	36547	32138
+piece_27.jpeg	32283	32138
+piece_28.jpeg	28018	32138
+piece_29.jpeg	23754	32138
+piece_30.jpeg	19490	32138
+piece_40.jpeg	19490	28993
+piece_39.jpeg	23754	28993
+piece_38.jpeg	28018	28993
+piece_37.jpeg	32283	28993
+piece_36.jpeg	36547	28993
+piece_35.jpeg	40811	28993
+piece_34.jpeg	45076	28993
+piece_33.jpeg	49340	28993
+piece_32.jpeg	53604	28993
+piece_31.jpeg	57868	28993
+piece_41.jpeg	57868	25848
+piece_42.jpeg	53604	25848
+piece_43.jpeg	49340	25848
+piece_44.jpeg	45076	25848
+piece_45.jpeg	40811	25848
+piece_46.jpeg	36547	25848
+piece_47.jpeg	32283	25848
+piece_48.jpeg	28018	25848
+piece_49.jpeg	23754	25848
+piece_50.jpeg	19490	25848
+piece_60.jpeg	19490	22703
+piece_59.jpeg	23754	22703
+piece_58.jpeg	28018	22703
+piece_57.jpeg	32283	22703
+piece_56.jpeg	36547	22703
+piece_55.jpeg	40811	22703
+piece_54.jpeg	45076	22703
+piece_53.jpeg	49340	22703
+piece_52.jpeg	53604	22703
+piece_51.jpeg	57868	22703
+piece_61.jpeg	57868	19558
+piece_62.jpeg	53604	19558
+piece_63.jpeg	49340	19558
+piece_64.jpeg	45076	19558
+piece_65.jpeg	40811	19558
+piece_66.jpeg	36547	19558
+piece_67.jpeg	32283	19558
+piece_68.jpeg	28018	19558
+piece_69.jpeg	23754	19558
+piece_70.jpeg	19490	19558
+piece_80.jpeg	19490	16413
+piece_79.jpeg	23754	16413
+piece_78.jpeg	28018	16413
+piece_77.jpeg	32283	16413
+piece_76.jpeg	36547	16413
+piece_75.jpeg	40811	16413
+piece_74.jpeg	45076	16413
+piece_73.jpeg	49340	16413
+piece_72.jpeg	53604	16413
+piece_71.jpeg	57868	16413
+piece_81.jpeg	57868	13268
+piece_82.jpeg	53604	13268
+piece_83.jpeg	49340	13268
+piece_84.jpeg	45076	13268
+piece_85.jpeg	40811	13268
+piece_86.jpeg	36547	13268
+piece_87.jpeg	32283	13268
+piece_88.jpeg	28018	13268
+piece_89.jpeg	23754	13268
+piece_90.jpeg	19490	13268
+piece_100.jpeg	19490	10123
+piece_99.jpeg	23754	10123
+piece_98.jpeg	28018	10123
+piece_97.jpeg	32283	10123
+piece_96.jpeg	36547	10123
+piece_95.jpeg	40811	10123
+piece_94.jpeg	45076	10123
+piece_93.jpeg	49340	10123
+piece_92.jpeg	53604	10123
+piece_91.jpeg	57868	10123
+piece_101.jpeg	57868	6978
+piece_102.jpeg	53604	6978
+piece_103.jpeg	49340	6978
+piece_104.jpeg	45076	6978
+piece_105.jpeg	40811	6978
+piece_106.jpeg	36547	6978
+piece_107.jpeg	32283	6978
+piece_108.jpeg	28018	6978
+piece_109.jpeg	23754	6978
+piece_110.jpeg	19490	6978
+piece_120.jpeg	19490	3833
+piece_119.jpeg	23754	3833
+piece_118.jpeg	28018	3833
+piece_117.jpeg	32283	3833
+piece_116.jpeg	36547	3833
+piece_115.jpeg	40811	3833
+piece_114.jpeg	45076	3833
+piece_113.jpeg	49340	3833
+piece_112.jpeg	53604	3833
+piece_111.jpeg	57868	3833
+piece_121.jpeg	57868	688
+piece_122.jpeg	53604	688
+piece_123.jpeg	49340	688
+piece_124.jpeg	45076	688
+piece_125.jpeg	40811	688
+piece_126.jpeg	36547	688
+piece_127.jpeg	32283	688
+piece_128.jpeg	28018	688
+piece_129.jpeg	23754	688
+piece_130.jpeg	19490	688
+#time(seconds)	121

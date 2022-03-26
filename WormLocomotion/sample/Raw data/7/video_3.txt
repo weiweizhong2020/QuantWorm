@@ -1,0 +1,18 @@
+#Timestamp:	Mon Jun 10 12:31:54 CDT 2013
+#StepsPerPixelsX	23.485
+#StepsPerPixelsY	23.3
+#Microscope-configuration:	0.8x
+#Tracker:	RIB
+#Plate-type:	6-well
+#Frame-Rate:	30.0
+#Brightness:	497
+#Sharpness:	633
+#Gain:	0
+Recording-locations-file:	C:\data\SangKyu\CompAnalysis\Locomotion III\Exp2\Recording location Plate01
+Position(from-recording-locations-file):	3
+Well-number:	5
+Video-filename:	C:\data\SangKyu\CompAnalysis\Locomotion III\Exp2\Plate01\video_well_5\video_3.avi
+Stage,x:	-7373
+Stage,y:	-19086
+Video-duration(seconds)	30
+#Time of recording this video including overthead (seconds):	34.4

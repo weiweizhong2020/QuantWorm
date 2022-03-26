@@ -1,0 +1,26 @@
+#	Mon Jul 01 17:20:03 CDT 2013
+#StepsPerPixelsX	23.485
+#StepsPerPixelsY	23.3
+#Times-Horizontal:	3
+#Times-Vertical:	4
+#Microscope-configuration:	0.8x
+#Tracker:	RIB
+#Plate-type:	6-well
+#Well-number:	2
+#Folder:	C:\data\SangKyu\Demo Project4\LS\Day09\PlateA\2__1
+#Brightness:	620
+#Sharpness:	708
+#Gain:	0
+piece_1.jpeg	12485	34408
+piece_2.jpeg	-2545	34408
+piece_3.jpeg	-17575	34408
+piece_6.jpeg	-17575	23224
+piece_5.jpeg	-2545	23224
+piece_4.jpeg	12485	23224
+piece_7.jpeg	12485	12040
+piece_8.jpeg	-2545	12040
+piece_9.jpeg	-17575	12040
+piece_12.jpeg	-17575	856
+piece_11.jpeg	-2545	856
+piece_10.jpeg	12485	856
+#time(seconds)	12

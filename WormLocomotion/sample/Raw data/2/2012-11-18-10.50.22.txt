@@ -1,0 +1,18 @@
+#Timestamp:	Mon Mar 04 16:47:51 CST 2013
+#StepsPerPixelsX	21.14993654880846
+#StepsPerPixelsY	21.89442695424498
+#Microscope-configuration:	0.8x
+#Tracker:	FUR
+#Plate-type:	6-well
+#Frame-Rate:	7.5
+#Brightness:	371
+#Sharpness:	612
+#Gain:	0
+Recording-locations-file:	c:\data\locations-new-wormscanner-6-well.txt
+Position(from-recording-locations-file):	1
+Well-number:	1
+Video-filename:	C:\data\SangKyu\Test\Video\video_well_1\video_1.avi
+Stage,x:	38886
+Stage,y:	19747
+Video-duration(seconds)	30
+#Time of recording this video including overthead (seconds):	12.8

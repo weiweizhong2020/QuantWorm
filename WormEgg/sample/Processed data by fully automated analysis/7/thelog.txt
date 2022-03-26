@@ -1,0 +1,56 @@
+#	Mon Jul 29 18:57:59 CDT 2013
+#StepsPerPixelsX	6.074
+#StepsPerPixelsY	6.026
+#Times-Horizontal:	6
+#Times-Vertical:	7
+#Microscope-configuration:	3x
+#Tracker:	RIB
+#Plate-type:	24-well
+#Well-number:	5
+#Folder:	C:\data\SangKyu\2013-07-29 (Egg laying)\PlateA\5
+#Brightness:	468
+#Sharpness:	650
+#Gain:	0
+piece_1.jpeg	-21423	37514
+piece_2.jpeg	-25310	37514
+piece_3.jpeg	-29197	37514
+piece_4.jpeg	-33085	37514
+piece_5.jpeg	-36972	37514
+piece_6.jpeg	-40859	37514
+piece_12.jpeg	-40859	34622
+piece_11.jpeg	-36972	34622
+piece_10.jpeg	-33085	34622
+piece_9.jpeg	-29197	34622
+piece_8.jpeg	-25310	34622
+piece_7.jpeg	-21423	34622
+piece_13.jpeg	-21423	31730
+piece_14.jpeg	-25310	31730
+piece_15.jpeg	-29197	31730
+piece_16.jpeg	-33085	31730
+piece_17.jpeg	-36972	31730
+piece_18.jpeg	-40859	31730
+piece_24.jpeg	-40859	28837
+piece_23.jpeg	-36972	28837
+piece_22.jpeg	-33085	28837
+piece_21.jpeg	-29197	28837
+piece_20.jpeg	-25310	28837
+piece_19.jpeg	-21423	28837
+piece_25.jpeg	-21423	25945
+piece_26.jpeg	-25310	25945
+piece_27.jpeg	-29197	25945
+piece_28.jpeg	-33085	25945
+piece_29.jpeg	-36972	25945
+piece_30.jpeg	-40859	25945
+piece_36.jpeg	-40859	23052
+piece_35.jpeg	-36972	23052
+piece_34.jpeg	-33085	23052
+piece_33.jpeg	-29197	23052
+piece_32.jpeg	-25310	23052
+piece_31.jpeg	-21423	23052
+piece_37.jpeg	-21423	20160
+piece_38.jpeg	-25310	20160
+piece_39.jpeg	-29197	20160
+piece_40.jpeg	-33085	20160
+piece_41.jpeg	-36972	20160
+piece_42.jpeg	-40859	20160
+#time(seconds)	28

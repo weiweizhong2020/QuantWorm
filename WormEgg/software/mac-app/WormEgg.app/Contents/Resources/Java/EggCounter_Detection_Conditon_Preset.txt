@@ -1,0 +1,14 @@
+#Normal egg detection
+{
+min_BoundingSize_In_CannyEdgeRegion = 3
+max_BoundingSize_In_CannyEdgeRegion = 20
+min_ObjectSize_In_CannyEdgeRegion = 30
+max_ObjectSize_In_CannyEdgeRegion = 100
+min_SqrtDiffRadius_In_CannyEdgeRegion = 4
+min_SqrtDiffRadius_In_FilledRegion = 2
+min_AvgRadius_In_ThresholdRegion = 20
+min_BoundingSize_In_ThresholdRegion = 5
+max_BoundingSize_In_ThresholdRegion = 40
+min_ObjectSize_In_ThresholdRegion = 400
+max_Distance_For_DuplicateFinding = 3
+}

@@ -1,0 +1,19 @@
+totalLiveWorms=13
+Inspected-by-human
+#Date: Fri Oct 18 15:29:09 CDT 2013
+#lifespan-assay-software-version: 10/18/2013
+#worm-details:
+#nLive	X	Y	Width	Height
+1	1282	507	76	26
+1	1504	1374	42	45
+1	995	921	38	40
+1	1344	1396	36	35
+1	372	1025	21	58
+1	1244	1218	56	20
+1	1471	996	48	22
+1	1463	856	42	25
+1	697	1395	23	42
+1	1544	1426	24	40
+1	445	574	59	15
+1	1020	821	39	20
+1	1256	1440	54	8

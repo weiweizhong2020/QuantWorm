@@ -1,0 +1,144 @@
+#	Wed Mar 20 14:54:50 CDT 2013
+#StepsPerPixelsX	6.5117795756462575
+#StepsPerPixelsY	6.488754243419221
+#Times-Horizontal:	10
+#Times-Vertical:	13
+#Microscope-configuration:	3x
+#Tracker:	FUR
+#Plate-type:	6-well
+#Well-number:	1
+#Folder:	C:\data\Robin\RNAi Growth Curve\03-19-13 Day 1\BE93\1
+#Brightness:	335
+#Sharpness:	553
+#Gain:	9
+piece_1.jpeg	57917	38443
+piece_2.jpeg	53750	38443
+piece_3.jpeg	49582	38443
+piece_4.jpeg	45415	38443
+piece_5.jpeg	41247	38443
+piece_6.jpeg	37080	38443
+piece_7.jpeg	32912	38443
+piece_8.jpeg	28745	38443
+piece_9.jpeg	24577	38443
+piece_10.jpeg	20410	38443
+piece_20.jpeg	20410	35329
+piece_19.jpeg	24577	35329
+piece_18.jpeg	28745	35329
+piece_17.jpeg	32912	35329
+piece_16.jpeg	37080	35329
+piece_15.jpeg	41247	35329
+piece_14.jpeg	45415	35329
+piece_13.jpeg	49582	35329
+piece_12.jpeg	53750	35329
+piece_11.jpeg	57917	35329
+piece_21.jpeg	57917	32214
+piece_22.jpeg	53750	32214
+piece_23.jpeg	49582	32214
+piece_24.jpeg	45415	32214
+piece_25.jpeg	41247	32214
+piece_26.jpeg	37080	32214
+piece_27.jpeg	32912	32214
+piece_28.jpeg	28745	32214
+piece_29.jpeg	24577	32214
+piece_30.jpeg	20410	32214
+piece_40.jpeg	20410	29100
+piece_39.jpeg	24577	29100
+piece_38.jpeg	28745	29100
+piece_37.jpeg	32912	29100
+piece_36.jpeg	37080	29100
+piece_35.jpeg	41247	29100
+piece_34.jpeg	45415	29100
+piece_33.jpeg	49582	29100
+piece_32.jpeg	53750	29100
+piece_31.jpeg	57917	29100
+piece_41.jpeg	57917	25985
+piece_42.jpeg	53750	25985
+piece_43.jpeg	49582	25985
+piece_44.jpeg	45415	25985
+piece_45.jpeg	41247	25985
+piece_46.jpeg	37080	25985
+piece_47.jpeg	32912	25985
+piece_48.jpeg	28745	25985
+piece_49.jpeg	24577	25985
+piece_50.jpeg	20410	25985
+piece_60.jpeg	20410	22870
+piece_59.jpeg	24577	22870
+piece_58.jpeg	28745	22870
+piece_57.jpeg	32912	22870
+piece_56.jpeg	37080	22870
+piece_55.jpeg	41247	22870
+piece_54.jpeg	45415	22870
+piece_53.jpeg	49582	22870
+piece_52.jpeg	53750	22870
+piece_51.jpeg	57917	22870
+piece_61.jpeg	57917	19756
+piece_62.jpeg	53750	19756
+piece_63.jpeg	49582	19756
+piece_64.jpeg	45415	19756
+piece_65.jpeg	41247	19756
+piece_66.jpeg	37080	19756
+piece_67.jpeg	32912	19756
+piece_68.jpeg	28745	19756
+piece_69.jpeg	24577	19756
+piece_70.jpeg	20410	19756
+piece_80.jpeg	20410	16641
+piece_79.jpeg	24577	16641
+piece_78.jpeg	28745	16641
+piece_77.jpeg	32912	16641
+piece_76.jpeg	37080	16641
+piece_75.jpeg	41247	16641
+piece_74.jpeg	45415	16641
+piece_73.jpeg	49582	16641
+piece_72.jpeg	53750	16641
+piece_71.jpeg	57917	16641
+piece_81.jpeg	57917	13527
+piece_82.jpeg	53750	13527
+piece_83.jpeg	49582	13527
+piece_84.jpeg	45415	13527
+piece_85.jpeg	41247	13527
+piece_86.jpeg	37080	13527
+piece_87.jpeg	32912	13527
+piece_88.jpeg	28745	13527
+piece_89.jpeg	24577	13527
+piece_90.jpeg	20410	13527
+piece_100.jpeg	20410	10412
+piece_99.jpeg	24577	10412
+piece_98.jpeg	28745	10412
+piece_97.jpeg	32912	10412
+piece_96.jpeg	37080	10412
+piece_95.jpeg	41247	10412
+piece_94.jpeg	45415	10412
+piece_93.jpeg	49582	10412
+piece_92.jpeg	53750	10412
+piece_91.jpeg	57917	10412
+piece_101.jpeg	57917	7297
+piece_102.jpeg	53750	7297
+piece_103.jpeg	49582	7297
+piece_104.jpeg	45415	7297
+piece_105.jpeg	41247	7297
+piece_106.jpeg	37080	7297
+piece_107.jpeg	32912	7297
+piece_108.jpeg	28745	7297
+piece_109.jpeg	24577	7297
+piece_110.jpeg	20410	7297
+piece_120.jpeg	20410	4183
+piece_119.jpeg	24577	4183
+piece_118.jpeg	28745	4183
+piece_117.jpeg	32912	4183
+piece_116.jpeg	37080	4183
+piece_115.jpeg	41247	4183
+piece_114.jpeg	45415	4183
+piece_113.jpeg	49582	4183
+piece_112.jpeg	53750	4183
+piece_111.jpeg	57917	4183
+piece_121.jpeg	57917	1068
+piece_122.jpeg	53750	1068
+piece_123.jpeg	49582	1068
+piece_124.jpeg	45415	1068
+piece_125.jpeg	41247	1068
+piece_126.jpeg	37080	1068
+piece_127.jpeg	32912	1068
+piece_128.jpeg	28745	1068
+piece_129.jpeg	24577	1068
+piece_130.jpeg	20410	1068
+#time(seconds)	87

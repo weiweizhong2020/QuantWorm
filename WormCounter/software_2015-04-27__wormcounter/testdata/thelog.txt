@@ -1,0 +1,34 @@
+#	Thu May 23 16:50:11 CDT 2013
+#StepsPerPixelsX	21.8673162800151
+#StepsPerPixelsY	21.573551173618547
+#Times-Horizontal:	4
+#Times-Vertical:	5
+#Microscope-configuration:	0.8x
+#Tracker:	ISH
+#Plate-type:	6 cm.
+#Well-number:	1
+#Folder:	C:\data\Tina\Chemotaxis\May 23, 2013\
+#Brightness:	227
+#Sharpness:	600
+#Gain:	0
+piece_1.jpeg	20992	20710
+piece_2.jpeg	6997	20710
+piece_3.jpeg	-6998	20710
+piece_4.jpeg	-20993	20710
+piece_8.jpeg	-20993	10355
+piece_7.jpeg	-6998	10355
+piece_6.jpeg	6997	10355
+piece_5.jpeg	20992	10355
+piece_9.jpeg	20992	0
+piece_10.jpeg	6997	0
+piece_11.jpeg	-6998	0
+piece_12.jpeg	-20993	0
+piece_16.jpeg	-20993	-10355
+piece_15.jpeg	-6998	-10355
+piece_14.jpeg	6997	-10355
+piece_13.jpeg	20992	-10355
+piece_17.jpeg	20992	-20711
+piece_18.jpeg	6997	-20711
+piece_19.jpeg	-6998	-20711
+piece_20.jpeg	-20993	-20711
+#time(seconds)	27

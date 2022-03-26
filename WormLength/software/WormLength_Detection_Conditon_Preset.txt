@@ -1,0 +1,38 @@
+#Normal worm detection
+{
+minArea = 350
+maxArea = 8000
+minBoundingSize = 45
+maxBoundingSize = 250
+spurTh = 6
+minMeanWormFat = 8
+maxMeanWormFat = 45
+minTrueLength = 250
+maxTrueLength = 2000
+}
+
+#Small skinny worm detection (250 um~)
+{
+minArea = 200
+maxArea = 8000
+minBoundingSize = 20
+maxBoundingSize = 250
+spurTh = 4
+minMeanWormFat = 2
+maxMeanWormFat = 45
+minTrueLength = 250
+maxTrueLength = 2000
+}
+
+#Super small size worm detection (70 um~)
+{
+minArea = 70
+maxArea = 8000
+minBoundingSize = 5
+maxBoundingSize = 250
+spurTh = 4
+minMeanWormFat = 2
+maxMeanWormFat = 45
+minTrueLength = 100
+maxTrueLength = 2000
+}

@@ -1,0 +1,47 @@
+# File saved at:	Fri Oct 18 16:22:12 CDT 2013
+# Egg count:	61
+# Automated counting:	Done
+# Manual inspection:	Done
+# pX	pY	width	height	nEgg	probability	method
+606	461	33	18	5	330	Automated counting
+2999	270	18	27	5	337	Automated counting
+1617	1834	13	16	2	108	Automated counting
+1320	1668	16	11	2	101	Automated counting
+1113	1880	14	12	2	112	Automated counting
+1357	2260	15	11	2	100	Automated counting
+1422	1689	12	13	2	112	Automated counting
+1525	2079	14	11	2	103	Automated counting
+1515	2070	15	10	2	108	Automated counting
+1281	2059	12	12	2	107	Automated counting
+1332	2274	16	9	2	103	Automated counting
+1786	1266	11	12	2	100	Automated counting
+922	1747	12	11	2	97	Automated counting
+823	2069	10	10	1	81	Automated counting
+1647	1882	9	10	1	70	Automated counting
+1587	2031	10	8	1	62	Automated counting
+1610	1824	8	10	1	64	Automated counting
+1091	1871	8	9	1	57	Automated counting
+1506	1363	9	8	1	55	Automated counting
+1515	2120	8	9	1	56	Automated counting
+1598	1850	9	8	1	56	Automated counting
+1619	1711	8	9	1	55	Automated counting
+1620	1921	8	9	1	65	Automated counting
+1086	1855	10	7	1	58	Automated counting
+1237	1776	7	10	1	56	Automated counting
+1327	2049	10	7	1	63	Automated counting
+1352	2108	10	7	1	61	Automated counting
+1634	1828	10	7	1	59	Automated counting
+1641	1890	7	10	1	61	Automated counting
+1076	1839	9	7	1	56	Automated counting
+1186	1828	7	9	1	54	Automated counting
+1254	1663	9	7	1	53	Automated counting
+1363	1559	7	9	1	56	Automated counting
+1418	1906	9	7	1	52	Automated counting
+1499	1969	7	9	1	54	Automated counting
+1521	2098	9	7	1	53	Automated counting
+1580	1712	9	7	1	53	Automated counting
+1631	1817	9	7	1	55	Automated counting
+1672	1653	7	9	1	52	Automated counting
+1574	1968	7	8	1	47	Automated counting
+1094	1823	6	9	1	48	Automated counting
+1738	1269	9	6	1	44	Automated counting

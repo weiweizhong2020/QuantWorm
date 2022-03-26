@@ -1,0 +1,12 @@
+#Normal worm detection
+{
+min_FrameCount_Of_ActiveTrack = 15
+min_PathLength_Of_SmoothedTrack = 10
+min_BoundingSize_Of_ActiveTrack = 5
+min_WormSize = 50
+max_WormSize = 300
+min_Distance_Of_SameWorm = 10
+max_PercentChange_In_WormSize = 20
+max_BinSize_For_Histogram = 0.5
+binSpacingSize_For_Histogram = 0.01
+}

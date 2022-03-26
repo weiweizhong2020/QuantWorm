@@ -1,0 +1,19 @@
+#Normal worm detection (Default)
+{
+min_DiffPixelCount_Of_Worm_In_DiffBinaryImage = 10
+min_WormSize = 40
+max_WormSize = 800
+min_MissingWormSize_In_DiffImage = 50
+min_GrayDiff_In_DiffImage = 30
+min_WhitePixelCount_In_DiffImage = 4
+}
+
+#Small worm detection
+{
+min_DiffPixelCount_Of_Worm_In_DiffBinaryImage = 10
+min_WormSize = 20
+max_WormSize = 800
+min_MissingWormSize_In_DiffImage = 50
+min_GrayDiff_In_DiffImage = 30
+min_WhitePixelCount_In_DiffImage = 4
+}

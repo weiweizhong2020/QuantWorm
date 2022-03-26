@@ -1,0 +1,18 @@
+#Timestamp:	Wed Jul 10 09:56:37 CDT 2013
+#StepsPerPixelsX	21.8673162800151
+#StepsPerPixelsY	21.573551173618547
+#Microscope-configuration:	0.8x
+#Tracker:	ISH
+#Plate-type:	6-well
+#Frame-Rate:	7.5
+#Brightness:	401
+#Sharpness:	826
+#Gain:	0
+Recording-locations-file:	C:\data\locations-new-wormscanner-6-well.txt
+Position(from-recording-locations-file):	1
+Well-number:	1
+Video-filename:	C:\data\SangKyu\Demo Project5\Locomotion\Day03\Plate01\video_well_1\video_1.avi
+Stage,x:	37973
+Stage,y:	20052
+Video-duration(seconds)	30
+#Time of recording this video including overthead (seconds):	32.0

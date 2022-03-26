@@ -1,0 +1,11 @@
+#Normal worm detection
+{
+min_WormSize= 50
+max_WormSize= 6000
+}
+
+#Test worm detection
+{
+min_WormSize= 100
+max_WormSize= 6000
+}

@@ -1,0 +1,16 @@
+#	Thu Nov 22 10:21:40 CST 2012
+#StepsPerPixelsX	21.586760047151067
+#StepsPerPixelsY	21.066397971173107
+piece_1.jpeg	39093	35391
+piece_2.jpeg	25278	35391
+piece_3.jpeg	11462	35391
+piece_6.jpeg	11462	25280
+piece_5.jpeg	25278	25280
+piece_4.jpeg	39093	25280
+piece_7.jpeg	39093	15168
+piece_8.jpeg	25278	15168
+piece_9.jpeg	11462	15168
+piece_12.jpeg	11462	5056
+#	time(miliseconds) 10687
+piece_11.jpeg	25278	5056
+piece_10.jpeg	39093	5056

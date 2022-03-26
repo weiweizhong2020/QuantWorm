@@ -1,0 +1,16 @@
+#	Thu Nov 11 01:19:31 CST 2010
+#StepsPerPixelsX	23.485
+#StepsPerPixelsY	23.3
+piece_1.jpeg	-41515	39144
+piece_2.jpeg	-56545	39144
+piece_3.jpeg	-71575	39144
+piece_6.jpeg	-71575	27960
+piece_5.jpeg	-56545	27960
+piece_4.jpeg	-41515	27960
+piece_7.jpeg	-41515	16776
+piece_8.jpeg	-56545	16776
+piece_9.jpeg	-71575	16776
+piece_12.jpeg	-71575	5592
+#	time(miliseconds) 10015
+piece_11.jpeg	-56545	5592
+piece_10.jpeg	-41515	5592

@@ -1,0 +1,18 @@
+#Timestamp:	Tue Jun 25 10:20:18 CDT 2013
+#StepsPerPixelsX	21.8673162800151
+#StepsPerPixelsY	21.573551173618547
+#Microscope-configuration:	0.8x
+#Tracker:	ISH
+#Plate-type:	6-well
+#Frame-Rate:	7.5
+#Brightness:	419
+#Sharpness:	820
+#Gain:	0
+Recording-locations-file:	C:\data\2013-06-24__video-locations-RNAi-6-well.txt
+Position(from-recording-locations-file):	5
+Well-number:	5
+Video-filename:	C:\data\SangKyu\Demo Project4\Locomotion\Day03\PlateA\video_well_5\video_5.avi
+Stage,x:	-1254
+Stage,y:	-19797
+Video-duration(seconds)	30
+#Time of recording this video including overthead (seconds):	33.4
